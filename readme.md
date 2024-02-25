@@ -4,3 +4,5 @@
 
 - This application is written in python
 - It shall be deployed in GKE
+
+- more updates coming soon ... 

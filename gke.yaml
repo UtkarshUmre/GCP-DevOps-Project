@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: gcp-devops-gke
-          image: gcr.io/custom-program-420615/gcpdevops
+          image: gcr.io/custom-program-420615/gcpdevops@sha256:2ebd539e7541a9f8e9c6b774c14ede418559c0105ac8ffaa77c7ef544777b13a
           ports:
             - containerPort: 80
           env:

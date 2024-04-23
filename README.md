@@ -22,3 +22,5 @@ This diagram visually represents the GCP DevOps project. As you can see, the pro
 By utilizing these services, this project achieves a streamlined CI/CD pipeline that automates the build, storage, and deployment of your React application, ensuring a smoother development and deployment workflow.
 
 ---
+
+[Screencast from 21-04-24 05:32:32 PM IST.webm](https://github.com/UtkarshUmre/GCP-DevOps-Project/assets/112888849/8aa95171-469e-4a58-ae05-d2dbd4795069)
